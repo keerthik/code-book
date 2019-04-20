@@ -8,5 +8,5 @@ This book is targeted at students of programming and software development, prima
 Start from the `master` branch.
 
 # About
-Please check the `about` folder for details on the concept and design of this learning resource
+Please visit the [`about page`]('about/README.md') for details on the concept and design of this learning resource
 
