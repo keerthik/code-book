@@ -1,6 +1,8 @@
 # Disclaimer
 This repository is a **proof of concept** and **work in progress**
 
+The actual contents of the book are being imported into this repository as the design of the repository is being developed.
+
 # Introduction
 Code Book is, as it sounds, a learning resource for programming based on the concept Adaptive GIT-LEARN by @keerthik. 
 

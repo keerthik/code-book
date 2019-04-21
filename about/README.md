@@ -18,11 +18,26 @@ Git is a protocol designed for "version control", that efficiently records chang
 AGL designs textbooks using git concepts with several branches, versions and commits. Students can either be directed through the content by an instructor, or use git procedures to skip around and find the level of advancement they are comfortable with for the topic they are working on.
 
 ## How to Use
-This section will be updated.
+This book can* be read straight from github.com using the repository viewer and default markdown viewers.
 
-Preferably, a basic understanding of git is useful to use this AGL book to its full potential.
+Preferably, a basic understanding of git is useful* to use this AGL book to its full potential.
 
-Start from the `master` branch. Use any cues in the content to switch to a branch with more in-context detail where needed.
+Running code may* require checking out the repository or downloading code folders to run locally.
+
+Start from the [`master`](https://github.com/keerthik/code-book/) branch of the repository. Use any cues in the content to switch to a branch with more in-context detail where needed. See the root `README` file for tips on branches for basic topics.
+
+This section will constantly evolve based on the branch and feedback from readers.
+
+\* *Doesn't mean it's necessary*
+
+## New Resources
+To create a new AGL "book" or resource for a topic sufficiently different from $CODE-BOOK, retaining most of this about folder
+
+# Disclaimer
+This repository is a **proof of concept** and **work in progress**
+
+## Development
+The ideal state for this book is probably not being viewed on github.com as a standard repository, developed by typing raw text into .md files. However, this is a very powerful framework for us to test this concept and work on the content.
 
 # Acknowledgments
-This book was written while providing basic guidance and instruction to Nivetha. I appreciate her patience while I bugged her for feedback as I worked on this
+This book was written while providing basic guidance and instruction to Nivetha. I appreciate her patience while I bugged her for feedback as I worked on this.
